@@ -10,8 +10,8 @@
     <true/>
     <key>ProgramArguments</key>
     <array>
-        <string>/usr/bin/python3</string>
-        <string>/Users/Roman/Applications/ImJustAKeyboardSir.py</string>
+        <string>PYTHON3 LOCATION INFORMATION HERE</string>
+        <string>LOCATION OF ImJustAKeyboardSir.py HERE</string>
     </array>
 </dict>
 </plist>
